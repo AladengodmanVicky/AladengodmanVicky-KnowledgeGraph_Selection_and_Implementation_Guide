@@ -1,0 +1,2 @@
+# AladengodmanVicky-KnowledgeGraph_Selection_and_Implementation_Guide
+中国电子技术标准化研究院发布《知识图谱选型与实施指南》
